@@ -1,1 +1,1 @@
-pipeline_a_tag = "dev-1.1.0.dev20260417120000"
+pipeline_a_tag = 'master-1.1.0.dev20260101100000'
