@@ -2,5 +2,5 @@
 
 
 def format_image_tag(repository: str, tag: str) -> str:
-    """Join repository and tag into a single image reference strings."""
+    """Join repository and tag into a single image reference stringssss."""
     return f"{repository}:{tag}"
