@@ -2,5 +2,5 @@
 
 
 def airflow_dag_id(env: str) -> str:
-    """Build a simple DAG id for an environment name."""
+    """Build a simple DAG id for an environment namessss."""
     return f"pipeline_b_{env.strip().lower()}"
